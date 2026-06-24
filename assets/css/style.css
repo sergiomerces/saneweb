@@ -60,6 +60,26 @@ header {
     margin: 20px 0;
 }
 
+.search {
+    margin: 20px 0;
+    text-align: end;
+}
+
+.search form {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+}
+
+.search input[type="search"] {
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+}
+
 .subtitle {
     color: #004c8b;
     font-size: 2rem;
@@ -73,6 +93,7 @@ header {
 }
 
 .categories {
+    width: 100%;
     display: flex;
     justify-content: space-between;
     margin: 20px 0;
