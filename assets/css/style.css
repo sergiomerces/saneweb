@@ -46,6 +46,19 @@ header {
     font-weight: bold;
 }
 
+#icon-bars {
+    color: #fff;
+    width: 32px;
+    height: 32px;
+}
+
+.menu-icon {
+    display: none;
+    cursor: pointer;
+    font-size: 1.5rem;
+    color: #fff;
+}
+
 .nav-list a {
     padding: 10px 10px;
     color: #fff;
@@ -114,5 +127,28 @@ footer {
     color: #fff;
     padding: 10px 0;
 
+}
+
+@media (max-width: 920px) {
+    .nav-bar ul {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        background-color: #003470;
+    }
+
+    .nav-bar ul.active {
+        display: flex;
+    }
+
+    .nav-bar ul li {
+        display: block;
+        text-align:right;
+        padding: 10px 0;
+    }
+
+    .menu-icon {
+        display: block;
+    }
 }
 
