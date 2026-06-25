@@ -72,6 +72,11 @@ header {
     gap: 10px;
 }
 
+.search-icon {
+    width: 32px;
+    height: 32px;
+}
+
 .search input[type="search"] {
     padding: 10px;
     font-size: 1rem;
