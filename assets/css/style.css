@@ -36,6 +36,11 @@ header {
     font-weight: bold;
 }
 
+#branding a {
+    color: #fc7c01;
+    text-decoration: none;
+}
+
 .nav-bar ul  li {
     display: inline-block;
     justify-content: center;
