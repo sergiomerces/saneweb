@@ -32,7 +32,7 @@ const resultsArea = document.getElementById('resultsArea');
 
         const meta = document.createElement('div');
         meta.className = 'card-meta';
-        meta.innerHTML = `<span>Código: ${item.codigo||''}</span><span>Categoria: ${item.categoria||''}</span>`;
+        meta.innerHTML = `<strong><span>Cód: ${item.codigo||''}</span></strong><span>Categoria: ${item.categoria||''}</span>`;
 
         const meta2 = document.createElement('div');
         meta2.className = 'card-meta';
@@ -43,11 +43,17 @@ const resultsArea = document.getElementById('resultsArea');
         meta3.style.marginTop = '0.5rem';
         meta3.innerHTML = `<span>Preço: R$ ${item.preco!=null?item.preco.toFixed(2):'-'}</span><span>Qtd: ${item.quantidade||'-'} ${item.unidade||''}</span>`;
 
+        const link = document.createElement('div');
+        link.className = 'card-link';
+        link.style.marginTop = '0.5rem';
+        link.innerHTML = `<button class="detalhe" onclick="window.location.href='detalhes.html?id=${item.link}'">Detalhes</button>`;
+
         body.appendChild(title);
-        body.appendChild(desc);
+        //body.appendChild(desc);
         body.appendChild(meta);
         body.appendChild(meta2);
         body.appendChild(meta3);
+        body.appendChild(link);
 
         card.appendChild(img);
         card.appendChild(body);

@@ -1,16 +1,16 @@
 [
     {
         "id": 1,
-        "codigo": "5401000916",
-        "nome": "Tubo PVC Ocre DN 100 mm",
-        "descricao": "Tubo PVC Ocre DN 100 mm X DE 110 mm X 6 m JEI",
+        "codigo": "5401002876",
+        "nome": "Curva 90° PVC Branco Esgoto DN 100 mm",
+        "descricao": "Curva 90° PVC Branco Esgoto DN 100 mm",
         "categoria": "Hidráulico",
-        "preco": 50.0,
-        "quantidade": 100,
-        "unidade": "barra",
-        "modalidade": "Contrato",
-        "fornecedor": "Hidro Saneamento",
-        "imagem": "./assets/img/hidraulico.webp"
+        "preco": 13.75,
+        "quantidade": 9,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "ADN",
+        "imagem": "./assets/pic/foto-001.webp"
     },
     {
         "id": 2,

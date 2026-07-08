@@ -26,11 +26,12 @@
     background:#fff;
     display:flex;
     flex-direction:column;
+    box-shadow:0 2px 4px rgba(0,0,0,0.1);
 }
 
 .card img{
     width:100%;
-    height:160px;
+    height:260px;
     object-fit:cover;
     background:#f4f4f4;
 }
@@ -62,11 +63,20 @@
     gap:0.5rem;
 }
 
+.card-link{
+    font-size:0.85rem;
+    color:#222;
+    display:flex;
+    justify-content:center;
+    gap:0.5rem;
+}
+
 .no-results{
     text-align:center;
     padding:2rem;
     color:#666;
 }
+
 .back-btn{
     background:#1976d2;
     color:#fff;
@@ -74,4 +84,16 @@
     padding:0.5rem 0.75rem;
     border-radius:6px;
     text-decoration:none;
+    text-align:center;
+    cursor:pointer;
+}
+
+.detalhe{
+    background:#1976d2;
+    color:#fff;
+    border:none;
+    padding:0.5rem 0.75rem;
+    border-radius:6px;
+    text-decoration:none;
+    cursor:pointer;
 }
