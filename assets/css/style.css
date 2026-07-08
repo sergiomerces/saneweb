@@ -36,10 +36,13 @@ header {
     font-weight: bold;
 }
 
-#branding a {
+#branding a,
+#branding a:link,
+#branding a:visited{
     color: #fc7c01;
     text-decoration: none;
 }
+
 
 .nav-bar ul  li {
     display: inline-block;
