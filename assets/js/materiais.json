@@ -10,21 +10,25 @@
         "unidade": "unidade",
         "modalidade": "Ata",
         "fornecedor": "ADN",
-        "imagem": "./assets/pic/foto-001.webp"
+        "imagem": "./assets/pic/foto-001.webp",
+        "link": "#"
     },
+
     {
         "id": 2,
-        "codigo": "5401000509",
-        "nome": "Tubo PVC Ocre DN 150 mm",
-        "descricao": "Tubo PVC Ocre DN 150 mm X DE 160 mm X 6 m JEI",
+        "codigo": "540102877",
+        "nome": "Curva 45° PVC Branco Esgoto DN 100 mm",
+        "descricao": "Curva 45° PVC Branco Esgoto DN 100 mm",
         "categoria": "Hidráulico",
-        "preco": 80.0,
-        "quantidade": 50,
-        "unidade": "barra",
-        "modalidade": "Contrato",
-        "fornecedor": "Hidrosanu",
-        "imagem": "./assets/img/hidraulico.webp"
+        "preco": 23.0,
+        "quantidade": 22,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "ADN",
+        "imagem": "./assets/pic/foto-002.webp",
+        "link": "#"
     },
+    
     {
         "id": 3,
         "codigo": "5401000917",
