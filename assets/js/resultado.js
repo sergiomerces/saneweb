@@ -36,7 +36,7 @@ const resultsArea = document.getElementById('resultsArea');
 
         const meta2 = document.createElement('div');
         meta2.className = 'card-meta';
-        meta2.innerHTML = `<span>Modalidade: ${item.modalidade||''}</span><span>Fornecedor: ${item.fornecedor||''}</span>`;
+        meta2.innerHTML = `<span>${item.modalidade||''}</span><span>${item.fornecedor||''}</span>`;
 
         const meta3 = document.createElement('div');
         meta3.className = 'card-meta';
