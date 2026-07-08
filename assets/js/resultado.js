@@ -36,13 +36,18 @@ const resultsArea = document.getElementById('resultsArea');
 
         const meta2 = document.createElement('div');
         meta2.className = 'card-meta';
-        meta2.style.marginTop = '0.5rem';
-        meta2.innerHTML = `<span>Preço: R$ ${item.preco!=null?item.preco.toFixed(2):'-'}</span><span>Qtd: ${item.quantidade||'-'} ${item.unidade||''}</span>`;
+        meta2.innerHTML = `<span>Modalidade: ${item.modalidade||''}</span><span>Fornecedor: ${item.fornecedor||''}</span>`;
+
+        const meta3 = document.createElement('div');
+        meta3.className = 'card-meta';
+        meta3.style.marginTop = '0.5rem';
+        meta3.innerHTML = `<span>Preço: R$ ${item.preco!=null?item.preco.toFixed(2):'-'}</span><span>Qtd: ${item.quantidade||'-'} ${item.unidade||''}</span>`;
 
         body.appendChild(title);
         body.appendChild(desc);
         body.appendChild(meta);
         body.appendChild(meta2);
+        body.appendChild(meta3);
 
         card.appendChild(img);
         card.appendChild(body);
