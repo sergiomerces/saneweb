@@ -1,47 +1,24 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SaneWeb :: Home</title>
-    <link rel="icon" type="image/x-icon" href="./assets/favicon.svg">
-    <link rel="stylesheet" href="./assets/css/style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Resultados da Pesquisa - SaneWeb</title>
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="stylesheet" href="./assets/css/resultado.css">
 </head>
 <body>
-    <main>
-        <header>
-            <h1 id="branding">SaneWeb</h1>
-            <nav class="nav-bar">
-                <div class="menu-icon">
-                    <img src="./assets/menu.svg" alt="menu suspenso" id="icon-bars" onclick="toggleMenu()">
-                </div>
-                <ul class="nav-list">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="hiraulicos.html">Hidráulicos</a></li>
-                    <li><a href="eletromecanicos.html">Eletromecânicos</a></li>
-                    <li><a href="ferramentas.html">Ferramentas</a></li>
-                    <li><a href="seguranca.html">Segurança</a></li>
-                </ul>
-            </nav>
-        </header>
-        <section class="search">
-            <form for="search">
-                <label for="search">Pesquisar:</label>
-                <span class="search-icon"><img src="./assets/pesquisa.svg" alt="lupa de pesquisa"></span>
-                <input type="search" name="search" id="search" placeholder="Digite sua pesquisa">
-            </form>
-        </section>
-        <section class="hero">
-            <picture>
-                <img src="./assets/img/capa_saneweb_1200.webp" alt="Estação de Tratamento de Água">
-            </picture>
-        </section>
-            
-        <footer>
-            <p>&copy; 2026 SaneWeb. Todos os direitos reservados.</p>
-        </footer>
-    </main>
-    <script src="./assets/js/menu-hamburguer.js" defer></script>
-    <script src="./assets/js/search.js" defer></script>
+  <main class="results-container">
+    <div class="results-header">
+      <h1>Resultados da Pesquisa</h1>
+      <div>
+        <a class="back-btn" href="index.html">Voltar</a>
+      </div>
+    </div>
+    <div id="resultsArea">
+        <!-- Os resultados da pesquisa serão exibidos aqui -->
+    </div>
+  </main>
+  <script src="./assets/js/resultado.js" defer></script>
 </body>
 </html>

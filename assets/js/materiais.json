@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "codigo": "5401000916",
         "nome": "Tubo PVC Ocre DN 100 mm",
         "descricao": "Tubo PVC Ocre DN 100 mm X DE 110 mm X 6 m JEI",
         "categoria": "Hidráulico",
@@ -9,10 +10,11 @@
         "unidade": "barra",
         "modalidade": "Contrato",
         "fornecedor": "Hidro Saneamento",
-        "imagem": ""
+        "imagem": "./assets/img/hidraulico.webp"
     },
     {
         "id": 2,
+        "codigo": "5401000509",
         "nome": "Tubo PVC Ocre DN 150 mm",
         "descricao": "Tubo PVC Ocre DN 150 mm X DE 160 mm X 6 m JEI",
         "categoria": "Hidráulico",
@@ -21,6 +23,20 @@
         "unidade": "barra",
         "modalidade": "Contrato",
         "fornecedor": "Hidrosanu",
+        "imagem": "./assets/img/hidraulico.webp"
+    },
+    {
+        "id": 3,
+        "codigo": "5401000917",
+        "nome": "Tubo PVC Ocre DN 200 mm",
+        "descricao": "Tubo PVC Ocre DN 200 mm X DE 225 mm X 6 m JEI",
+        "categoria": "Hidráulico",
+        "preco": 120.0,
+        "quantidade": 30,
+        "unidade": "barra",
+        "modalidade": "Contrato",
+        "fornecedor": "Hidro Saneamento",
         "imagem": ""
     }
+
 ]
