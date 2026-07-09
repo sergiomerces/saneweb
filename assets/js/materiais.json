@@ -31,16 +31,107 @@
     
     {
         "id": 3,
-        "codigo": "5401000917",
-        "nome": "Tubo PVC Ocre DN 200 mm",
-        "descricao": "Tubo PVC Ocre DN 200 mm X DE 225 mm X 6 m JEI",
+        "codigo": "5401000766",
+        "nome": "Plug PVC Branco 1/2'",
+        "descricao": "Plug PVC Branco 1/2'",
         "categoria": "Hidráulico",
-        "preco": 120.0,
+        "preco": 1.28,
+        "quantidade": 7,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "ADN",
+        "imagem": "./assets/pic/foto-003.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 4,
+        "codigo": "5401001128",
+        "nome": "Plug PVC Branco 3/4'",
+        "descricao": "Plug PVC Branco 3/4'",
+        "categoria": "Hidráulico",
+        "preco": 0.45,
+        "quantidade": 28,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "ADN",
+        "imagem": "./assets/pic/foto-004.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 5,
+        "codigo": "5401000226",
+        "nome": "Niple Latão 1'",
+        "descricao": "Niple Latão 1'",
+        "categoria": "Hidráulico",
+        "preco": 30.2,
+        "quantidade": 28,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "BRV",
+        "imagem": "./assets/pic/foto-005.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 6,
+        "codigo": "5401000799",
+        "nome": "Niple Latão 1/2'",
+        "descricao": "Niple Latão 1/2'",
+        "categoria": "Hidráulico",
+        "preco": 9.4,
         "quantidade": 30,
-        "unidade": "barra",
-        "modalidade": "Contrato",
-        "fornecedor": "Hidro Saneamento",
-        "imagem": ""
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "BRV",
+        "imagem": "./assets/pic/foto-006.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 7,
+        "codigo": "5401000578",
+        "nome": "Niple de Redução Latão 3/4' x 1/2'",
+        "descricao": "Niple de Redução Latão 3/4' x 1/2'",
+        "categoria": "Hidráulico",
+        "preco": 14.4,
+        "quantidade": 15,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "BRV",
+        "imagem": "./assets/pic/foto-007.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 8,
+        "codigo": "5401000966",
+        "nome": "Porca para Tubete Latão 1'",
+        "descricao": "Porca para Tubete Latão 1'",
+        "categoria": "Hidráulico",
+        "preco": 26.0,
+        "quantidade": 7,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "BRV",
+        "imagem": "./assets/pic/foto-008.webp",
+        "link": "#"
+    }, 
+    
+    {
+        "id": 9,
+        "codigo": "5401001979",
+        "nome": "Válvula de Bloqueio Tipo Esfera 1'",
+        "descricao": "Válvula de Bloqueio Tipo Esfera 1'",
+        "categoria": "Hidráulico",
+        "preco": 82.0,
+        "quantidade": 7,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "BRV",
+        "imagem": "./assets/pic/foto-009.webp",
+        "link": "#"
     }
 
 ]
