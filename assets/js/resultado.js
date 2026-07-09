@@ -8,6 +8,11 @@ const resultsArea = document.getElementById('resultsArea');
     if(!results || results.length === 0){
         resultsArea.innerHTML = '<p class="no-results">Nenhum resultado encontrado para a pesquisa.</p>';
     } else {
+        results.sort((a, b) => {
+            const nameA = String(a.nome || '').toLowerCase();
+            const nameB = String(b.nome || '').toLowerCase();
+            return nameA.localeCompare(nameB, 'pt-BR', { sensitivity: 'base' });
+        });
         const container = document.createElement('div');
         container.className = 'cards';
 

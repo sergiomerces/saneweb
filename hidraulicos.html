@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>SaneWeb :: Hidráulicos</title>
+    <link rel="icon" type="image/x-icon" href="./assets/public/favicon.svg">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/resultado.css">
+</head>
+<body>
+    <main class="results-container">
+        <header>
+            <h1 id="branding"><a href="index.html" target="_self">SaneWeb</a></h1>
+            <nav class="nav-bar">
+                <div class="menu-icon">
+                    <img src="./assets/public/menu.png" alt="menu suspenso" id="icon-bars" onclick="toggleMenu()">
+                </div>
+                <ul class="nav-list">
+                    <li><a href="./index.html">Home</a></li>
+                    <li><a href="#">Eletromecânico</a></li>
+                    <li><a href="#">Ferramenta</a></li>
+                    <li><a href="#">Automotivo</a></li>
+                    <li><a href="#">Predial</a></li>
+                    <li><a href="#">Segurança</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section class="search">
+            <form id="search-form" for="search-form">
+                <span class="search-icon"><img src="./assets/public/pesquisa.svg" alt="lupa de pesquisa"></span>
+                <input type="search" name="search" id="search-input" placeholder="Digite sua pesquisa">
+                <button type="submit" id="search-button">Pesquisar</button>
+            </form>
+        </section>
+        <div class="results-header">
+            <h2 class="subtitle">Portfólio Hidráulico</h2>
+        </div>
+        <div id="grid" class="cards" aria-live="polite"></div>
+        <footer>
+            <div>
+                <p>&copy; 2026 SaneWeb. Todos os direitos reservados.</p>
+            </div>
+            <div>
+                <p>Desenvolvido por Sérgio Mercês</p>
+            </div>
+        </footer>
+    </main>
+    <script src="./assets/js/hidraulico.js" defer></script>
+    <script src="./assets/js/menu-hamburguer.js" defer></script>
+    <script src="./assets/js/search.js" defer></script>
+</body>
+</html>
