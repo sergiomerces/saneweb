@@ -1,23 +1,34 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>SaneWeb :: Pesquisa</title>
-  <link rel="stylesheet" href="./assets/css/style.css">
-  <link rel="stylesheet" href="./assets/css/resultado.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>SaneWeb :: Pesquisa</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/resultado.css">
 </head>
 <body>
     <main class="results-container">
-    <div class="results-header">
-        <h1>Resultados da Pesquisa</h1>
-        <div>
-            <a class="back-btn" href="index.html">Voltar</a>
+         <header>
+            <h1 id="branding"><a href="index.html" target="_self">SaneWeb</a></h1>
+        </header>
+        <div class="results-header">
+            <h2 class="subtitle">Resultados da Pesquisa:</h2>
+            <div>
+                <a class="back-btn" href="index.html">Voltar</a>
+            </div>
         </div>
-    </div>
-    <div id="resultsArea">
-        <!-- Os resultados da pesquisa serão exibidos aqui -->
-    </div>
+        <div id="resultsArea">
+            <!-- Os resultados da pesquisa serão exibidos aqui -->
+        </div>
+        <footer>
+            <div>
+                <p>&copy; 2026 SaneWeb. Todos os direitos reservados.</p>
+            </div>
+            <div>
+                <p>Desenvolvido por Sérgio Mercês</p>
+            </div>
+        </footer>
     </main>
     <script src="./assets/js/resultado.js" defer></script>
 </body>
