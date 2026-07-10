@@ -207,6 +207,51 @@
         "fornecedor": "Eremaster",
         "imagem": "./assets/pic/foto-014.webp",
         "link": "#"
+    },
+
+    {
+        "id": 15,
+        "codigo": "5401000801",
+        "nome": "Bucha de Redução Galvanizada 2' x 1.1/2'",
+        "descricao": "Bucha de Redução Galvanizada 2' x 1.1/2'",
+        "categoria": "Hidráulico",
+        "preco": 15.0,
+        "quantidade": 14,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Fabrício",
+        "imagem": "./assets/pic/foto-015.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 16,
+        "codigo": "5401001102",
+        "nome": "Luva Mista PVC DN 32 mm x 1' solda/rosca interna",
+        "descricao": "Luva Mista PVC DN 32 mm x 1' solda/rosca interna",
+        "categoria": "Hidráulico",
+        "preco": 4.3,
+        "quantidade": 18,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Fabrício",
+        "imagem": "./assets/pic/foto-016.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 17,
+        "codigo": "5401002615",
+        "nome": "Tubo PVC Branco Roscável 3/4'",
+        "descricao": "Tubo PVC Branco Roscável 3/4'",
+        "categoria": "Hidráulico",
+        "preco": 40.9,
+        "quantidade": 25,
+        "unidade": "barra",
+        "modalidade": "Ata",
+        "fornecedor": "Fabrício",
+        "imagem": "./assets/pic/foto-017.webp",
+        "link": "#"
     }
 
 
