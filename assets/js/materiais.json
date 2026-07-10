@@ -132,6 +132,37 @@
         "fornecedor": "BRV",
         "imagem": "./assets/pic/foto-009.webp",
         "link": "#"
+    },
+
+    {
+        "id": 10,
+        "codigo": "5401000673",
+        "nome": "Válvula Gaveta Cunha de Borracha FF DN 100 mm PN 10 bolsa para DEFOFO",
+        "descricao": "Válvula Gaveta Cunha de Borracha FF DN 100 mm PN 10 bolsa para DEFOFO",
+        "categoria": "Hidráulico",
+        "preco": 825.44,
+        "quantidade": 5,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Carbofluor",
+        "imagem": "./assets/pic/foto-010.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 11,
+        "codigo": "5401000674",
+        "nome": "Válvula Gaveta Cunha de Borracha FF DN 150 mm PN 10 bolsa para DEFOFO",
+        "descricao": "Válvula Gaveta Cunha de Borracha FF DN 150 mm PN 10 bolsa para DEFOFO",
+        "categoria": "Hidráulico",
+        "preco": 1193.4,
+        "quantidade": 4,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Carbofluor",
+        "imagem": "./assets/pic/foto-010.webp",
+        "link": "#"
     }
+
 
 ]

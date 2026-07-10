@@ -20,7 +20,6 @@ async function loadMateriais(){
             <img src="${m.imagem || ''}" alt="${escapeHtml(m.nome || '')}">
             <div class="card-body">
               <h2 class="card-title">${escapeHtml(m.nome || '')}</h2>
-              <p class="card-desc">${escapeHtml(m.descricao || '')}</p>
               <div class="card-meta"><strong><span>Cód: ${escapeHtml(m.codigo || '')}</span></strong><span>Categoria: ${escapeHtml(m.categoria || '')}</span></div>
               <div class="card-meta"><span>${escapeHtml(m.modalidade || '')}</span><span>${escapeHtml(m.fornecedor || '')}</span></div>
               <div class="card-meta"><span>Preço: R$ ${Number(m.preco || 0).toFixed(2)}</span><span>Qtd: ${m.quantidade || '-'} ${escapeHtml(m.unidade || '')}</span></div>
