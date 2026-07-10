@@ -252,6 +252,396 @@
         "fornecedor": "Fabrício",
         "imagem": "./assets/pic/foto-017.webp",
         "link": "#"
+    },
+
+    {
+        "id": 18,
+        "codigo": "5401001031",
+        "nome": "Adaptador Marrom PVC Bolsa/Rosca (2') 60 mm",
+        "descricao": "Adaptador Marrom PVC Bolsa/Rosca (2') 60 mm",
+        "categoria": "Hidráulico",
+        "preco": 3.59,
+        "quantidade": 18,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-018.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 19,
+        "codigo": "5401003323",
+        "nome": "Bucha de Redução PVC PBS DN 40 mm DE 50 mm",
+        "descricao": "Bucha de Redução PVC PBS DN 40 mm DE 50 mm",
+        "categoria": "Hidráulico",
+        "preco": 2.48,
+        "quantidade": 7,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-019.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 20,
+        "codigo": "5401000921",
+        "nome": "Cap PVC Branco Esgoto DN 100 mm",
+        "descricao": "Cap PVC Branco Esgoto DN 100 mm",
+        "categoria": "Hidráulico",
+        "preco": 5.01,
+        "quantidade": 11,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-020.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 21,
+        "codigo": "5401002077",
+        "nome": "Cap PVC Soldável DN 60 mm",
+        "descricao": "Cap PVC Soldável DN 60 mm",
+        "categoria": "Hidráulico",
+        "preco": 4.06,
+        "quantidade": 11,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-021.webp",
+        "link": "#"
+    }, 
+
+    {
+        "id": 22,
+        "codigo": "5401001018",
+        "nome": "Colar de Tomada PVC DN 60 mm",
+        "descricao": "Colar de Tomada PVC DN 60 mm",
+        "categoria": "Hidráulico",
+        "preco":6.33,
+        "quantidade": 4,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-022.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 23,
+        "codigo": "5401000015",
+        "nome": "Colar de Tomada PVC (3') DN 85 mm x 3/4'",
+        "descricao": "Colar de Tomada PVC (3')DN 85 mm x 3/4' com trava e  anel de borracha",
+        "categoria": "Hidráulico",
+        "preco": 7.29,
+        "quantidade": 19,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-022.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 24,
+        "codigo": "5401000779",
+        "nome": "Cotovelo 90° PVC DN 1' Marrom Soldável",
+        "descricao": "Cotovelo 90° PVC DN 1' Marrom Soldável",
+        "categoria": "Hidráulico",
+        "preco": 1.09,
+        "quantidade": 19,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-024.webp",
+        "link": "#"
+    }, 
+
+    {
+        "id": 25,
+        "codigo": "5401003284",
+        "nome": "Curva Longa PVC Ocre JEI DN 150 mm x 45°",
+        "descricao": "Curva Longa PVC Ocre JEI DN 150 mm x 45°",
+        "categoria": "Hidráulico",
+        "preco": 48.75,
+        "quantidade": 10,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-025.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 26,
+        "codigo": "5401002388",
+        "nome": "Luva de União PVC Soldável 2'",
+        "descricao": "Luva de União PVC Soldável 2'",
+        "categoria": "Hidráulico",
+        "preco": 15.78,
+        "quantidade": 11,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-026.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 27,
+        "codigo": "5401000871",
+        "nome": "Luva de Redução PVC 3/4' x 1/2' LR (Liso/Rosca interna)",
+        "descricao": "Luva de Redução PVC 3/4' x 1/2' LR (Liso/Rosca interna)",
+        "categoria": "Hidráulico",
+        "preco": 0.92,
+        "quantidade": 14,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-027.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 28,
+        "codigo": "5401002049",
+        "nome": "Luva Soldável PVC 1'",
+        "descricao": "Luva Soldável PVC 1'",
+        "categoria": "Hidráulico",
+        "preco": 1.25,
+        "quantidade": 10,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-028.webp",
+        "link": "#"
+    }, 
+
+    {
+        "id": 29,
+        "codigo": "5401000729",
+        "nome": "Luva União PVC Branco 3/4'",
+        "descricao": "Luva União PVC Branco 3/4'",
+        "categoria": "Hidráulico",
+        "preco": 6.66,
+        "quantidade": 14,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-029.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 30,
+        "codigo": "5401002516",
+        "nome": "Luva União Roscável PVC Branco 2'",
+        "descricao": "Luva União Roscável PVC Branco 2'",
+        "categoria": "Hidráulico",
+        "preco": 38.5,
+        "quantidade": 10,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-029.webp",
+        "link": "#"
+    }, 
+
+    {
+        "id": 31,
+        "codigo": "5401001973",
+        "nome": "Niple PVC Branco Rosca 2'",
+        "descricao": "Niple PVC Branco Rosca 2'",
+        "categoria": "Hidráulico",
+        "preco": 5.0,
+        "quantidade": 7,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-031.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 32,
+        "codigo": "5401000987",
+        "nome": "Te de Serviço Integrado Articulado PP DN 60 mm x 32 mm PN 16",
+        "descricao": "Te de Serviço Integrado Articulado PP DN 60 mm x 32 mm PN 16",
+        "categoria": "Hidráulico",
+        "preco": 32.5,
+        "quantidade": 20,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-032.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 33,
+        "codigo": "5401000282",
+        "nome": "Te PVC Soldável 2'",
+        "descricao": "Te PVC Soldável 2'",
+        "categoria": "Hidráulico",
+        "preco": 11.06,
+        "quantidade": 14,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-033.webp",
+        "link": "#"
+    }, 
+
+    {
+        "id": 34,
+        "codigo": "5401001193",
+        "nome": "Tubo PVC Branco DN 100 mm JE",
+        "descricao": "Tubo PVC Branco DN 100 mm JE",
+        "categoria": "Hidráulico",
+        "preco": 66.1,
+        "quantidade": 21,
+        "unidade": "barra",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-034.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 35,
+        "codigo": "5401001172",
+        "nome": "Tubo PEAD PE 80 PN 16 Azul DN 32 mm",
+        "descricao": "Tubo PEAD PE 80 PN 16 Azul DN 32 mm",
+        "categoria": "Hidráulico",
+        "preco": 1100.0,
+        "quantidade": 3,
+        "unidade": "rolo",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-035.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 36,
+        "codigo": "5401002537",
+        "nome": "Luva de União Marrom Soldável DN 25 mm",
+        "descricao": "Luva de União Marrom Soldável DN 25 mm",
+        "categoria": "Hidráulico",
+        "preco": 4.5,
+        "quantidade": 17,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-026.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 37,
+        "codigo": "5401003312",
+        "nome": "Abraçadeira de Reparo Rápido Aço Inox DN 50 mm (2')",
+        "descricao": "Abraçadeira de Reparo Rápido Aço Inox DN 50 mm (2')",
+        "categoria": "Hidráulico",
+        "preco": 355.0,
+        "quantidade": 14,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-037.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 38,
+        "codigo": "5401003371",
+        "nome": "Abraçadeira de Reparo Rápido Aço Inox DN 100 mm (4')",
+        "descricao": "Abraçadeira de Reparo Rápido Aço Inox DN 100 mm (4')",
+        "categoria": "Hidráulico",
+        "preco": 385.0,
+        "quantidade": 14,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-037.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 39,
+        "codigo": "5401003372",
+        "nome": "Abraçadeira de Reparo Rápido Aço Inox DN 150 mm (6')",
+        "descricao": "Abraçadeira de Reparo Rápido Aço Inox DN 150 mm (6')",
+        "categoria": "Hidráulico",
+        "preco": 530.0,
+        "quantidade": 10,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-037.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 40,
+        "codigo": "5401003373",
+        "nome": "Abraçadeira de Reparo Rápido Aço Inox DN 200 mm (8')",
+        "descricao": "Abraçadeira de Reparo Rápido Aço Inox DN 200 mm (8')",
+        "categoria": "Hidráulico",
+        "preco": 805.0,
+        "quantidade": 10,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-040.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 41,
+        "codigo": "5401003374",
+        "nome": "Abraçadeira de Reparo Rápido Aço Inox DN 250 mm (10')",
+        "descricao": "Abraçadeira de Reparo Rápido Aço Inox DN 250 mm (10')",
+        "categoria": "Hidráulico",
+        "preco": 100.0,
+        "quantidade": 10,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-040.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 42,
+        "codigo": "5401003375",
+        "nome": "Abraçadeira de Reparo Rápido Aço Inox DN 300 mm (2')",
+        "descricao": "Abraçadeira de Reparo Rápido Aço Inox DN 300 mm (2')",
+        "categoria": "Hidráulico",
+        "preco": 1250.0,
+        "quantidade": 4,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-040.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 43,
+        "codigo": "5401003376",
+        "nome": "Abraçadeira de Reparo Rápido Aço Inox DN 350 mm (14')",
+        "descricao": "Abraçadeira de Reparo Rápido Aço Inox DN 350 mm (14')",
+        "categoria": "Hidráulico",
+        "preco": 1800.0,
+        "quantidade": 4,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Hidrosanu",
+        "imagem": "./assets/pic/foto-040.webp",
+        "link": "#"
     }
 
 
