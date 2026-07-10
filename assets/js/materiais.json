@@ -151,7 +151,7 @@
 
     {
         "id": 11,
-        "codigo": "5401000674",
+        "codigo": "5401002560",
         "nome": "Válvula Gaveta Cunha de Borracha FF DN 150 mm PN 10 bolsa para DEFOFO",
         "descricao": "Válvula Gaveta Cunha de Borracha FF DN 150 mm PN 10 bolsa para DEFOFO",
         "categoria": "Hidráulico",
@@ -161,6 +161,51 @@
         "modalidade": "Ata",
         "fornecedor": "Carbofluor",
         "imagem": "./assets/pic/foto-010.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 12,
+        "codigo": "5401002700",
+        "nome": "Tubo Marrom PVC PBA DN 100 mm (4') DE 110 mm CL20 JE",
+        "descricao": "Tubo Marrom PVC PBA DN 100 mm (4') DE 110 mm CL20 JE com anel de borracha",
+        "categoria": "Hidráulico",
+        "preco": 443.71,
+        "quantidade": 10,
+        "unidade": "barra",
+        "modalidade": "Ata",
+        "fornecedor": "Eremaster",
+        "imagem": "./assets/pic/foto-012.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 13,
+        "codigo": "5401000638",
+        "nome": "Tubo Marrom PVC PBA DN 75 mm (3') DE 85 mm CL20 JE",
+        "descricao": "Tubo Marrom PVC PBA DN 75 mm (3') DE 85 mm CL20 JE com anel de borracha",
+        "categoria": "Hidráulico",
+        "preco": 256.77,
+        "quantidade": 7,
+        "unidade": "barra",
+        "modalidade": "Ata",
+        "fornecedor": "Eremaster",
+        "imagem": "./assets/pic/foto-012.webp",
+        "link": "#"
+    },
+    
+    {
+        "id": 14,
+        "codigo": "5401003292",
+        "nome": "Tubo Coletor PVC Ocre JEI DN 250 mm",
+        "descricao": "Tubo Coletor PVC Ocre JEI DN 250 mm com anel de borracha",
+        "categoria": "Hidráulico",
+        "preco": 841.0,
+        "quantidade": 20,
+        "unidade": "barra",
+        "modalidade": "Ata",
+        "fornecedor": "Eremaster",
+        "imagem": "./assets/pic/foto-014.webp",
         "link": "#"
     }
 
