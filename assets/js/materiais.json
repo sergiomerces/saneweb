@@ -1362,6 +1362,36 @@
         "fornecedor": "Fabrício",
         "imagem": "./assets/pic/foto-082.webp",
         "link": "#"
+    },
+
+    {
+        "id": 91,
+        "codigo": "5401002470",
+        "nome": "Bucha Redução Latão 1' x 3/4' BSP",
+        "descricao": "Bucha Redução Latão 1' x 3/4' BSP",
+        "categoria": "Hidráulico",
+        "preco": 21.92,
+        "quantidade": 26,
+        "unidade": "unidade",
+        "modalidade": "Contrato",
+        "fornecedor": "Fabrício",
+        "imagem": "./assets/pic/foto-082.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 92,
+        "codigo": "5401003461",
+        "nome": "Jogo de Varetas para Desobstrução de Esgoto",
+        "descricao": "Jogo de Varetas para Desobstrução de Esgoto com Acessórios",
+        "categoria": "Hidráulico",
+        "preco": 1960.0,
+        "quantidade": 5,
+        "unidade": "jogo",
+        "modalidade": "Contrato",
+        "fornecedor": "FC Varetas",
+        "imagem": "./assets/pic/foto-092.webp",
+        "link": "#"
     }
 
 
