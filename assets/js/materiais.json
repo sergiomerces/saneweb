@@ -1062,6 +1062,51 @@
         "fornecedor": "Octogonal",
         "imagem": "./assets/pic/foto-070.webp",
         "link": "#"
+    },
+
+    {
+        "id": 72,
+        "codigo": "5401000831",
+        "nome": "Abraçadeira Tripartida FOFO DN 100 mm",
+        "descricao": "Abraçadeira Tripartida FOFO DN 100 mm",
+        "categoria": "Hidráulico",
+        "preco": 362.0,
+        "quantidade": 13,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Starlux",
+        "imagem": "./assets/pic/foto-059.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 73,
+        "codigo": "5401002001",
+        "nome": "Colar Tomada Inox Multidiâmetro DN 150 - 300 mm DNR 25 mm",
+        "descricao": "Colar Tomada Inox Multidiâmetro DN 150 - 300 mm DNR 25 mm",
+        "categoria": "Hidráulico",
+        "preco": 308.35,
+        "quantidade": 6,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Starlux",
+        "imagem": "./assets/pic/foto-073.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 74,
+        "codigo": "5401002000",
+        "nome": "Colar Tomada Inox Multidiâmetro DN 150 - 300 mm DNR 20 mm",
+        "descricao": "Colar Tomada Inox Multidiâmetro DN 150 - 300 mm DNR 20 mm",
+        "categoria": "Hidráulico",
+        "preco": 308.35,
+        "quantidade": 8,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Starlux",
+        "imagem": "./assets/pic/foto-073.webp",
+        "link": "#"
     }
 
 
