@@ -320,7 +320,7 @@
         "nome": "Colar de Tomada PVC DN 60 mm",
         "descricao": "Colar de Tomada PVC DN 60 mm",
         "categoria": "Hidráulico",
-        "preco":6.33,
+        "preco": 6.33,
         "quantidade": 4,
         "unidade": "unidade",
         "modalidade": "Ata",
@@ -362,8 +362,8 @@
     {
         "id": 25,
         "codigo": "5401003284",
-        "nome": "Curva Longa PVC Ocre JEI DN 150 mm x 45°",
-        "descricao": "Curva Longa PVC Ocre JEI DN 150 mm x 45°",
+        "nome": "Curva 45° Longa PVC Ocre JEI DN 150 mm",
+        "descricao": "Curva 45° Longa PVC Ocre JEI DN 150 mm",
         "categoria": "Hidráulico",
         "preco": 48.75,
         "quantidade": 10,
@@ -641,6 +641,276 @@
         "modalidade": "Ata",
         "fornecedor": "Hidrosanu",
         "imagem": "./assets/pic/foto-040.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 44,
+        "codigo": "2201003169",
+        "nome": "Adesivo Aquatherm 175 g com pincel",
+        "descricao": "Adesivo Aquatherm 175 g com pincel",
+        "categoria": "Hidráulico",
+        "preco": 15.0,
+        "quantidade": 28,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Navodap",
+        "imagem": "./assets/pic/foto-044.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 45,
+        "codigo": "5401000909",
+        "nome": "Anel de Borracha JGI DN 75 mm",
+        "descricao": "Anel de Borracha JGI DN 75 mm",
+        "categoria": "Hidráulico",
+        "preco": 2.4,
+        "quantidade": 22,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Navodap",
+        "imagem": "./assets/pic/foto-045.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 46,
+        "codigo": "5401003009",
+        "nome": "Anel de Borracha PBA DN 65 x 75 mm",
+        "descricao": "Anel de Borracha PBA DN 65 x 75 mm",
+        "categoria": "Hidráulico",
+        "preco": 2.0,
+        "quantidade": 28,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Navodap",
+        "imagem": "./assets/pic/foto-046.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 47,
+        "codigo": "5401001964",
+        "nome": "Colar de Tomada PVC DN 65 mm x 75 mm x 3/4'",
+        "descricao": "Colar de Tomada PVC DN 65 mm x 75 mm x 3/4'",
+        "categoria": "Hidráulico",
+        "preco": 9.72,
+        "quantidade": 19,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Navodap",
+        "imagem": "./assets/pic/foto-022.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 48,
+        "codigo": "5401001079",
+        "nome": "Curva 90° PBA JEI DN 50/60 mm Classe 15",
+        "descricao": "Curva 90° PBA JEI DN 50/60 mm Classe 15",
+        "categoria": "Hidráulico",
+        "preco": 20.0,
+        "quantidade": 15,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Navodap",
+        "imagem": "./assets/pic/foto-048.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 49,
+        "codigo": "5401000163",
+        "nome": "Curva 45° PVC Ocre DN 150 mm",
+        "descricao": "Curva 45° PVC Ocre DN 150 mm",
+        "categoria": "Hidráulico",
+        "preco": 40.0,
+        "quantidade": 7,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Navodap",
+        "imagem": "./assets/pic/foto-049.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 50,
+        "codigo": "5401003040",
+        "nome": "Curva 45° PBA com Anel DN 50/60 mm",
+        "descricao": "Curva 45° PBA com Anel DN 50/60 mm",
+        "categoria": "Hidráulico",
+        "preco": 12.31,
+        "quantidade": 12,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Navodap",
+        "imagem": "./assets/pic/foto-050.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 51,
+        "codigo": "5401000161",
+        "nome": "Curva 90° Longa PVC Ocre JEI DN 150 mm",
+        "descricao": "Curva 90° Longa PVC Ocre JEI DN 150 mm",
+        "categoria": "Hidráulico",
+        "preco": 60.0,
+        "quantidade": 7,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Navodap",
+        "imagem": "./assets/pic/foto-051.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 52,
+        "codigo": "5401002081",
+        "nome": "Luva Correr PVC PBA JEI DN 100 mm CL 20",
+        "descricao": "Luva Correr PVC PBA JEI DN 100 mm CL 20",
+        "categoria": "Hidráulico",
+        "preco": 55.0,
+        "quantidade": 13,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Navodap",
+        "imagem": "./assets/pic/foto-052.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 53,
+        "codigo": "5401001113",
+        "nome": "Luva de PVC Ocre JEI DN 150 mm",
+        "descricao": "Luva de PVC Ocre JEI DN 150 mm",
+        "categoria": "Hidráulico",
+        "preco": 30.0,
+        "quantidade": 13,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Navodap",
+        "imagem": "./assets/pic/foto-053.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 54,
+        "codigo": "5401000201",
+        "nome": "Luva de Correr DEFOFO DN 150 mm",
+        "descricao": "Luva de Correr DEFOFO DN 150 mm",
+        "categoria": "Hidráulico",
+        "preco": 100.0,
+        "quantidade": 6,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Navodap",
+        "imagem": "./assets/pic/foto-054.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 55,
+        "codigo": "5401000288",
+        "nome": "Te PVC PBA Bolsa/Bolsa DN 100 mm Classe 15",
+        "descricao": "Te PVC PBA Bolsa/Bolsa DN 100 mm Classe 15",
+        "categoria": "Hidráulico",
+        "preco": 85.0,
+        "quantidade": 8,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Navodap",
+        "imagem": "./assets/pic/foto-055.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 56,
+        "codigo": "5401003359",
+        "nome": "Válvula de Bloqueio Esfera PVC 3/4' Soldável",
+        "descricao": "Válvula de Bloqueio Esfera PVC 3/4' Soldável",
+        "categoria": "Hidráulico",
+        "preco": 6.0,
+        "quantidade": 15,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Navodap",
+        "imagem": "./assets/pic/foto-056.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 57,
+        "codigo": "5401002058",
+        "nome": "Válvula de Bloqueio Esfera PVC 1' Rosca Interna",
+        "descricao": "Válvula de Bloqueio Esfera PVC 1' Rosca Interna",
+        "categoria": "Hidráulico",
+        "preco": 17.7,
+        "quantidade": 12,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Navodap",
+        "imagem": "./assets/pic/foto-057.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 58,
+        "codigo": "5401002060",
+        "nome": "Válvula de Bloqueio Esfera PVC 2' Rosca Interna",
+        "descricao": "Válvula de Bloqueio Esfera PVC 2' Rosca Interna",
+        "categoria": "Hidráulico",
+        "preco": 55.0,
+        "quantidade": 9,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Navodap",
+        "imagem": "./assets/pic/foto-057.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 59,
+        "codigo": "5401000830",
+        "nome": "Abraçadeira Tripartida FOFO DN 75 mm",
+        "descricao": "Abraçadeira Tripartida FOFO DN 75 mm",
+        "categoria": "Hidráulico",
+        "preco": 342.0,
+        "quantidade": 7,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Nelia Maria",
+        "imagem": "./assets/pic/foto-059.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 60,
+        "codigo": "5401000836",
+        "nome": "Abraçadeira Tripartida FOFO DN 350 mm",
+        "descricao": "Abraçadeira Tripartida FOFO DN 350 mm",
+        "categoria": "Hidráulico",
+        "preco": 3100.0,
+        "quantidade": 6,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Nelia Maria",
+        "imagem": "./assets/pic/foto-059.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 61,
+        "codigo": "5401000837",
+        "nome": "Abraçadeira Tripartida FOFO DN 400 mm",
+        "descricao": "Abraçadeira Tripartida FOFO DN 400 mm",
+        "categoria": "Hidráulico",
+        "preco": 4000.0,
+        "quantidade": 6,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Nelia Maria",
+        "imagem": "./assets/pic/foto-059.webp",
         "link": "#"
     }
 
