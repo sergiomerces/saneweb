@@ -1002,6 +1002,66 @@
         "fornecedor": "Nhanderio",
         "imagem": "./assets/pic/foto-066.webp",
         "link": "#"
+    },
+
+    {
+        "id": 68,
+        "codigo": "5401003277",
+        "nome": "Abraçadeira de Reparo Rápido Aço Inox DN 400 mm (16')",
+        "descricao": "Abraçadeira de Reparo Rápido Aço Inox DN 400 mm (16')",
+        "categoria": "Hidráulico",
+        "preco": 2723.64,
+        "quantidade": 4,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Octogonal",
+        "imagem": "./assets/pic/foto-040.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 69,
+        "codigo": "5401001098",
+        "nome": "Junta Mecânica Multi-Diâmetro FOFO DN 300 mm PN 10/16",
+        "descricao": "Junta Mecânica Multi-Diâmetro FOFO DN 300 mm PN 10/16",
+        "categoria": "Hidráulico",
+        "preco": 1380.64,
+        "quantidade": 7,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Octogonal",
+        "imagem": "./assets/pic/foto-069.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 70,
+        "codigo": "5401001189",
+        "nome": "Válvula Retenção Portinhola Dupla FOFO DN 150 mm PN 10",
+        "descricao": "Válvula Retenção Portinhola Dupla FOFO DN 150 mm PN 10",
+        "categoria": "Hidráulico",
+        "preco": 945.0,
+        "quantidade": 5,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Octogonal",
+        "imagem": "./assets/pic/foto-070.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 71,
+        "codigo": "5401001188",
+        "nome": "Válvula Retenção Portinhola Dupla FOFO DN 100 mm PN 10",
+        "descricao": "Válvula Retenção Portinhola Dupla FOFO DN 100 mm PN 10",
+        "categoria": "Hidráulico",
+        "preco": 557.0,
+        "quantidade": 3,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Octogonal",
+        "imagem": "./assets/pic/foto-070.webp",
+        "link": "#"
     }
 
 
