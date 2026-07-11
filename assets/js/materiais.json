@@ -1107,6 +1107,51 @@
         "fornecedor": "Starlux",
         "imagem": "./assets/pic/foto-073.webp",
         "link": "#"
+    },
+
+    {
+        "id": 75,
+        "codigo": "5401001285",
+        "nome": "Junta de Adaptação Flexível Cerâmica x Ocre DN 200 mm",
+        "descricao": "Junta de Adaptação Flexível Cerâmica x Ocre DN 200 mm",
+        "categoria": "Hidráulico",
+        "preco": 175.0,
+        "quantidade": 20,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Tatianni",
+        "imagem": "./assets/pic/foto-075.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 76,
+        "codigo": "5401004056",
+        "nome": "Junta de Borracha Flexível Ocre x Ocre DN 250 mm",
+        "descricao": "Junta de Borracha Flexível Ocre x Ocre DN 250 mm",
+        "categoria": "Hidráulico",
+        "preco": 317.0,
+        "quantidade": 6,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Tatianni",
+        "imagem": "./assets/pic/foto-076.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 77,
+        "codigo": "5401001203",
+        "nome": "Junta de Adaptação Flexível Cerâmica x Ocre DN 250 mm",
+        "descricao": "Junta de Adaptação Flexível Cerâmica x Ocre DN 250 mm",
+        "categoria": "Hidráulico",
+        "preco": 461.0,
+        "quantidade": 13,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Tatianni",
+        "imagem": "./assets/pic/foto-075.webp",
+        "link": "#"
     }
 
 
