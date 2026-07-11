@@ -1217,8 +1217,8 @@
     {
         "id": 82,
         "codigo": "5401003286",
-        "nome": "Bucha Redução Latão 1/2 x 3/4' BSP",
-        "descricao": "Bucha Redução Latão 1/2 x 3/4' BSP",
+        "nome": "Bucha Redução Latão 1/2' x 3/4' BSP",
+        "descricao": "Bucha Redução Latão 1/2' x 3/4' BSP",
         "categoria": "Hidráulico",
         "preco": 6.72,
         "quantidade": 29,
@@ -1287,7 +1287,83 @@
         "fornecedor": "Carbofluor",
         "imagem": "./assets/pic/foto-086.webp",
         "link": "#"
+    },
+
+    {
+        "id": 87,
+        "codigo": "5401002434",
+        "nome": "Adaptador Curto PBS Soldável 25 mm x 3/4' CL 15",
+        "descricao": "Adaptador Curto PBS Soldável 25 mm x 3/4' CL 15",
+        "categoria": "Hidráulico",
+        "preco": 0.56,
+        "quantidade": 369,
+        "unidade": "unidade",
+        "modalidade": "Contrato",
+        "fornecedor": "Fabrício",
+        "imagem": "./assets/pic/foto-087.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 88,
+        "codigo": "5401002048",
+        "nome": "Luva PVC PBS DN 3/4' Soldável",
+        "descricao": "Luva PVC PBS DN 3/4' Soldável",
+        "categoria": "Hidráulico",
+        "preco": 0.47,
+        "quantidade": 132,
+        "unidade": "unidade",
+        "modalidade": "Contrato",
+        "fornecedor": "Fabrício",
+        "imagem": "./assets/pic/foto-028.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 89,
+        "codigo": "5401000713",
+        "nome": "Te PVC Soldável 3/4'",
+        "descricao": "Te PVC Soldável 3/4'",
+        "categoria": "Hidráulico",
+        "preco": 0.85,
+        "quantidade": 43,
+        "unidade": "unidade",
+        "modalidade": "Contrato",
+        "fornecedor": "Fabrício",
+        "imagem": "./assets/pic/foto-033.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 90,
+        "codigo": "5401003315",
+        "nome": "Válvula Borboleta PVC 3/4' Rosca Interna",
+        "descricao": "Válvula Borboleta PVC 3/4' Rosca Interna",
+        "categoria": "Hidráulico",
+        "preco": 6.93,
+        "quantidade": 310,
+        "unidade": "unidade",
+        "modalidade": "Contrato",
+        "fornecedor": "Fabrício",
+        "imagem": "./assets/pic/foto-090.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 91,
+        "codigo": "5401002470",
+        "nome": "Bucha Redução Latão 1' x 3/4' BSP",
+        "descricao": "Bucha Redução Latão 1' x 3/4' BSP",
+        "categoria": "Hidráulico",
+        "preco": 21.92,
+        "quantidade": 26,
+        "unidade": "unidade",
+        "modalidade": "Contrato",
+        "fornecedor": "Fabrício",
+        "imagem": "./assets/pic/foto-082.webp",
+        "link": "#"
     }
+
 
 
 ]
