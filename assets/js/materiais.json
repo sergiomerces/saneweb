@@ -1407,6 +1407,156 @@
         "fornecedor": "Ferrum",
         "imagem": "./assets/pic/foto-093.webp",
         "link": "#"
+    },
+
+    {
+        "id": 94,
+        "codigo": "5401001961",
+        "nome": "Colar de Tomada PVC DN 60 mm x 3/4'",
+        "descricao": "Colar de Tomada PVC DN 60 mm x 3/4'",
+        "categoria": "Hidráulico",
+        "preco": 5.50,
+        "quantidade": 200,
+        "unidade": "unidade",
+        "modalidade": "Contrato",
+        "fornecedor": "Guimarães",
+        "imagem": "./assets/pic/foto-022.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 95,
+        "codigo": "5401000782",
+        "nome": "Cotovelo 90° PVC Branco Rosca com Anel Metálico 3/4'",
+        "descricao": "Cotovelo 90° PVC Branco Rosca com Anel Metálico 3/4'",
+        "categoria": "Hidráulico",
+        "preco": 3.46,
+        "quantidade": 1269,
+        "unidade": "unidade",
+        "modalidade": "Contrato",
+        "fornecedor": "Guimarães",
+        "imagem": "./assets/pic/foto-095.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 96,
+        "codigo": "5401002447",
+        "nome": "Adaptador de Compressão PEAD DN 20 mm x 3/4'",
+        "descricao": "Adaptador de Compressão PEAD DN 20 mm x 3/4' NTS 179",
+        "categoria": "Hidráulico",
+        "preco": 1.59,
+        "quantidade": 1116,
+        "unidade": "unidade",
+        "modalidade": "Contrato",
+        "fornecedor": "Guimarães",
+        "imagem": "./assets/pic/foto-096.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 97,
+        "codigo": "5401001101",
+        "nome": "Lacre Azul Antifraude e Inversão de Fluxo 3/4' para Hidrômetro",
+        "descricao": "Lacre Azul Antifraude e Inversão de Fluxo 3/4' para Hidrômetro",
+        "categoria": "Hidráulico",
+        "preco": 0.61,
+        "quantidade": 4219,
+        "unidade": "unidade",
+        "modalidade": "Contrato",
+        "fornecedor": "Guimarães",
+        "imagem": "./assets/pic/foto-097.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 98,
+        "codigo": "5401002230",
+        "nome": "Lacre Vermelho Antifraude e Inversão de Fluxo 3/4' para Hidrômetro",
+        "descricao": "Lacre Azul Antifraude e Inversão de Fluxo 3/4' para Hidrômetro",
+        "categoria": "Hidráulico",
+        "preco": 0.60,
+        "quantidade": 378,
+        "unidade": "unidade",
+        "modalidade": "Contrato",
+        "fornecedor": "Guimarães",
+        "imagem": "./assets/pic/foto-098.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 99,
+        "codigo": "5401003305",
+        "nome": "Adaptador de Compressão PEAD DN 20 mm x 3/4' Rosca Interna",
+        "descricao": "Adaptador de Compressão PEAD DN 20 mm x 3/4' Rosca Interna",
+        "categoria": "Hidráulico",
+        "preco": 2.24,
+        "quantidade": 178,
+        "unidade": "unidade",
+        "modalidade": "Contrato",
+        "fornecedor": "Guimarães",
+        "imagem": "./assets/pic/foto-099.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 100,
+        "codigo": "5401003427",
+        "nome": "Te de Serviço Integrado Articulado PP DN 50 mm x 20 mm PN 16",
+        "descricao": "Te de Serviço Integrado Articulado PP DN 50 mm x 20 mm PN 16",
+        "categoria": "Hidráulico",
+        "preco": 23.21,
+        "quantidade": 56,
+        "unidade": "unidade",
+        "modalidade": "Contrato",
+        "fornecedor": "Guimarães",
+        "imagem": "./assets/pic/foto-032.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 101,
+        "codigo": "5401000985",
+        "nome": "Te de Serviço Integrado Articulado PP DN 110 mm x 20 mm PN 16",
+        "descricao": "Te de Serviço Integrado Articulado PP DN 110 mm x 20 mm PN 16",
+        "categoria": "Hidráulico",
+        "preco": 31.11,
+        "quantidade": 45,
+        "unidade": "unidade",
+        "modalidade": "Contrato",
+        "fornecedor": "Guimarães",
+        "imagem": "./assets/pic/foto-032.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 102,
+        "codigo": "5401002545",
+        "nome": "União Tubo PEAD DN 25 mm (3/4') NTS",
+        "descricao": "União Tubo PEAD DN 25 mm (3/4') NTS",
+        "categoria": "Hidráulico",
+        "preco": 2.71,
+        "quantidade": 1233,
+        "unidade": "unidade",
+        "modalidade": "Contrato",
+        "fornecedor": "Guimarães",
+        "imagem": "./assets/pic/foto-102.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 102,
+        "codigo": "5401000666",
+        "nome": "União Tubo PEAD DN 32 mm (1') NTS",
+        "descricao": "União Tubo PEAD DN 32 mm (1') NTS",
+        "categoria": "Hidráulico",
+        "preco": 10.2,
+        "quantidade": 49,
+        "unidade": "unidade",
+        "modalidade": "Contrato",
+        "fornecedor": "Guimarães",
+        "imagem": "./assets/pic/foto-102.webp",
+        "link": "#"
     }
 
 
