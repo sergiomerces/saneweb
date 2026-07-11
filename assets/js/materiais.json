@@ -1392,6 +1392,21 @@
         "fornecedor": "FC Varetas",
         "imagem": "./assets/pic/foto-092.webp",
         "link": "#"
+    },
+
+    {
+        "id": 93,
+        "codigo": "5401001146",
+        "nome": "Tampão Articulado FF Dúctil DN 600 mm",
+        "descricao": "Tampão Articulado FF Dúctil DN 600 mm Classe D-400",
+        "categoria": "Hidráulico",
+        "preco": 438.2,
+        "quantidade": 61,
+        "unidade": "unidade",
+        "modalidade": "Contrato",
+        "fornecedor": "Ferrum",
+        "imagem": "./assets/pic/foto-093.webp",
+        "link": "#"
     }
 
 
