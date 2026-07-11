@@ -912,6 +912,96 @@
         "fornecedor": "Nelia Maria",
         "imagem": "./assets/pic/foto-059.webp",
         "link": "#"
+    },
+
+    {
+        "id": 62,
+        "codigo": "5401001060",
+        "nome": "Colar de Tomada FOFO 200 mm x 3/4'",
+        "descricao": "Colar de Tomada FOFO 200 mm x 3/4'",
+        "categoria": "Hidráulico",
+        "preco": 72.0,
+        "quantidade": 7,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Nhanderio",
+        "imagem": "./assets/pic/foto-062.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 63,
+        "codigo": "5401001063",
+        "nome": "Colar de Tomada FOFO 250 mm x 3/4'",
+        "descricao": "Colar de Tomada FOFO 250 mm x 3/4'",
+        "categoria": "Hidráulico",
+        "preco": 95.0,
+        "quantidade": 7,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Nhanderio",
+        "imagem": "./assets/pic/foto-062.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 64,
+        "codigo": "5401002499",
+        "nome": "Junta Gibault FOFO x PVC DN 100/110 mm",
+        "descricao": "Junta Gibault FOFO x PVC DN 100/110 mm",
+        "categoria": "Hidráulico",
+        "preco": 180.0,
+        "quantidade": 12,
+        "unidade": "unidade",
+        "modalidade": "Ata",
+        "fornecedor": "Nhanderio",
+        "imagem": "./assets/pic/foto-064.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 65,
+        "codigo": "5401001091",
+        "nome": "Junta Gibault FOFO x PVC DN 150/160 mm",
+        "descricao": "Junta Gibault FOFO x PVC DN 150/160 mm",
+        "categoria": "Hidráulico",
+        "preco": 270.0,
+        "quantidade": 10,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Nhanderio",
+        "imagem": "./assets/pic/foto-064.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 66,
+        "codigo": "540100823",
+        "nome": "Junta Gibault FOFO DN 350 mm",
+        "descricao": "Junta Gibault FOFO DN 350 mm",
+        "categoria": "Hidráulico",
+        "preco": 750.0,
+        "quantidade": 6,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Nhanderio",
+        "imagem": "./assets/pic/foto-066.webp",
+        "link": "#"
+    },
+
+    {
+        "id": 67,
+        "codigo": "540100824",
+        "nome": "Junta Gibault FOFO DN 400 mm",
+        "descricao": "Junta Gibault FOFO DN 400 mm",
+        "categoria": "Hidráulico",
+        "preco": 933.0,
+        "quantidade": 6,
+        "unidade": "peça",
+        "modalidade": "Ata",
+        "fornecedor": "Nhanderio",
+        "imagem": "./assets/pic/foto-066.webp",
+        "link": "#"
     }
 
 
